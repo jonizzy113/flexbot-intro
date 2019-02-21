@@ -1,0 +1,7 @@
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding: 0px;
+    flex-direction: row-reverse;
+}
